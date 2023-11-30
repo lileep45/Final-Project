@@ -5,3 +5,7 @@ h1 {
 h2 {
     color:gray;
       }
+.images {
+    background-color: green;
+    display: flex;
+}
