@@ -9,3 +9,6 @@ h2 {
     background-color: green;
     display: flex;
 }
+img {
+    width: 100%;
+}
