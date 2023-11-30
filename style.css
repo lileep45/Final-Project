@@ -7,7 +7,6 @@ h2 {
       }
 .images {
     background-color: green;
-    display: flex;
 }
 img {
     width: 100%;
