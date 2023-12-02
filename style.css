@@ -8,6 +8,7 @@ h2 {
 .images {
     background-color: green;
     flex-wrap: wrap;
+    border-top: green;
 
 }
 
