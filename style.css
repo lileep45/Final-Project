@@ -8,10 +8,11 @@ h2 {
 .images {
     background-color: green;
     flex-wrap: wrap;
-    border: 5cap;
+
 }
+
 img {
-    width: 100%;
+    width: 90%;
 }
 .images ul {
     display:flex;
