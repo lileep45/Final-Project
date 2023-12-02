@@ -21,7 +21,27 @@ img {
 body {
     background-color: rgb(8, 70, 28);
     }
-nav {
-    font-size: large;
+
+
+
+a:link {
+    font-size:large;
     font-style: bold;
-}
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(153, 233, 143);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(0, 255, 98);
+  }
+  
