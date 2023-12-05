@@ -21,6 +21,7 @@ h3 {
 
 .images ul {
     display:flex;
+    justify-content: space-between;
 }
 body {
     background-color: rgb(8, 70, 28);
