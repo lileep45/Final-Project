@@ -5,6 +5,10 @@ h1 {
 h2 {
     color:white;
       }
+h3 {
+    color: white;
+}
+
 .images {
     background-color: green;
     flex-wrap: wrap;
