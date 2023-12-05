@@ -30,17 +30,17 @@ a:link {
     color: white;
   }
   
-  /* visited link */
+
   a:visited {
     color: green;
   }
   
-  /* mouse over link */
+
   a:hover {
     color: rgb(153, 233, 143);
   }
   
-  /* selected link */
+
   a:active {
     color: rgb(0, 255, 98);
   }
